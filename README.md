@@ -83,7 +83,9 @@ npm install
 
 ### 🔹 Levantar el frontend
 
+```bash
 npm run dev
+```
 
 Por defecto se abrirá en:
 
